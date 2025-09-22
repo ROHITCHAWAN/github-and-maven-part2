@@ -7,7 +7,7 @@ public class GitBranchPrac {
 	public void branchPrac()
 	{
 		System.out.println("This is pushed through branch");
-		System.out.println("this is to check GIT conflict");
+		System.out.println("this is to check a GIT conflict");
 	}
 	
 
